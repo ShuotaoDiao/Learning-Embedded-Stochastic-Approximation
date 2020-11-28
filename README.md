@@ -1,4 +1,9 @@
-# Learning-Embedded-Stochastic-Approximation
+# Learning Embedded Stochastic Approximation
+The Bytes
+
+Team members: Basil Chatha, Manan Rajdev, Niveditha Madhava Rao, 
+Posha Dave, Shuotao Diao
+
 ## Requirements
 - python 3.7+
 ## Installation Instructions
