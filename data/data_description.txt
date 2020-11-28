@@ -1,0 +1,2 @@
+This folder contains all the data sets for this project. Note that all the data sets are in CSV format. 
+We also provide C++ source for generating the data sets. 
